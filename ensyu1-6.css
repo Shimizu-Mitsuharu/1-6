@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.box1 {
+	height: 200px;
+	width: 100%;
+	background-image: url(/Users/Mitsu/1/1-6/ensyuimg/box1.jpg);
+	background-size: cover;
+}
+.box2 {
+	height: 200px;
+	width: 100%;
+	background-image: url(/Users/Mitsu/1/1-6/ensyuimg/box2.jpg);
+	background-size: cover;
+}
+.box3 {
+	height: 200px;
+	width: 100%;
+	background-image: url(/Users/Mitsu/1/1-6/ensyuimg/box3.jpg);
+	background-size: cover;
+}
+.box4 {
+	height: 200px;
+	width: 100%;
+	background-image: url(/Users/Mitsu/1/1-6/ensyuimg/box4.jpg);
+	background-size: cover;
+}
